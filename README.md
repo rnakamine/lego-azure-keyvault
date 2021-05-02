@@ -1,1 +1,1 @@
-# lego-azure-keyvault
+# lego-keyvault
